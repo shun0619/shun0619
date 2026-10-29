@@ -63,4 +63,4 @@ through testing and release. Now studying IT in English in Auckland.
 ### ▶ 07. TEAM UP
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shun-miyashita-0ab01829b)
-- 🎮 [Portfolio](https://github.com/shun0619/pixel-quest-portfolio)
+- 🎮 [Portfolio](https://pixel-quest-portfolio-blush.vercel.app/)
